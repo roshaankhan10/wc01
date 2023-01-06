@@ -1,13 +1,14 @@
 \documentclass[a4paper]{exam}
 
 \usepackage{geometry}
+\usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{titling}
 
 \printanswers
 
-\title{Weekly Challenge 01: Definition\\CS/MATH 113 Discrete Mathematics}
-\author{$<$\textit{submission-ID}$>$}  % <==== replace with your student ID, e.g. ws01007
+\title{Weekly Challenge 01: Comparison\\CS/MATH 113 Discrete Mathematics}
+\author{$\langle team-name \rangle$}  % <== for grading, replace with your team name, e.g. q1-team-420
 \date{Habib University | Spring 2023}
 
 \qformat{{\large\bf \thequestion. \thequestiontitle}\hfill}
@@ -18,26 +19,29 @@
 
 \begin{questions}
   
-\titledquestion{Even Numbers}
+\titledquestion{Safety at the Carnival}
+  \begin{minipage}{.3\linewidth}
+  \begin{center}
+    \includegraphics[width=\textwidth]{height}\\
+    \href{https://tjschmidtcarnival.com/pageserver/safety}{TJ Schmidt \& Company}
+  \end{center}
+\end{minipage}
+  \begin{minipage}{.65\linewidth}
+Schmidty \cite{schmidt} has grown old and his vision is weak. He can no longer see if a person meets the height limit. The carnival organizers have installed a sensor to help. It beeps if any of the people in the waiting area is not eligible. Schmidty can move people in and out of the waiting area and then apply the sensor.
 
-  Provide below a definition of an even number.
-
-  \subsection*{Instructions}
-  Make sure to follow these instructions. Submissions that deviate from these may lose marks.
-  \begin{itemize}
-  \item Submit a precise definition.
-  \item Cite any sources that you use. Section 3 of Overleaf's guide \cite{overleaf} should be helpful.
-  \item Your \LaTeX\ file should compile without errors on the instructors' machines. If you still use Overleaf, make sure that there are no warnings or errors. Files that do not compile cannot be graded.
-  \end{itemize}
-  
-  \begin{solution}
+  \begin{parts}
+  \part A family of 5 is trying to sneak in their toddler who does not meet the limit. Describe how Schmidty can identify the toddler in no more than 3 applications of the sensor.
+  \part What is the smallest number of times that Schmidty needs to apply the sensor for a family of size $n$ in which only one person is below the limit. 
+  \end{parts}
+\end{minipage}
+\begin{solution}
     % Enter your solution here.
   \end{solution}
 \end{questions}
 
 \begin{thebibliography}{9}
-\bibitem{overleaf}
-  Overleaf, Online \LaTeX\ Editor. \emph{Bibliography management with bibtex}. \url{https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex}. \textit{Last accessed on 6 Jan, 2023}.
+\bibitem{schmidt}
+  TJ Schmidt \& Company (Standish, MI). \emph{Safety \& Maintenance}. \url{https://tjschmidtcarnival.com/pageserver/safety}. \textit{Last accessed on 6 Jan, 2023}.
 \end{thebibliography}
 
 \end{document}

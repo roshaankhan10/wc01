@@ -4,12 +4,14 @@
 
 # Purpose
 
-Weekly challenges invite you to critically engage with the topics covered up to that week. They take on a variety of formats and will be available and attempted through diverse platforms as the semester progresses. They may be attempted individually or in teams as indicated.
+Each weekly challenge (WC) invite you to critically engage with the topics covered up to that week. They take on a variety of formats and will be available and attempted through diverse platforms as the semester progresses. They may be attempted individually or in teams as indicated.
 
-The task for this challenge is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file. Make sure to include any supporting files needed for successful compilation. The same file at the time of the submission deadline will be taken to be your submission.
+Grading is on attempt. We trust that you are doing the necessary work and award you full marks for your submission. To verify, one or more teams will be selected at random each week for a viva on their submission. If any of the members is unable to explain the submission or all members do not appear for the viva, the team will be considered unreliable. Unreliable teams will be awarded a 0 in the corresponding WC as well as all WC's since their last viva.
+
+The task for this WC is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file. Make sure to include any supporting files needed for successful compilation. The same file at the time of the submission deadline will be taken to be your submission.
 
 _Deadline_: 2359h on Sun, 15 Jan
 
-For discussion on the challenge, please use the related Canvas discussion thread.
+For discussion on the WC, please use the related Canvas discussion thread.
 
 viel Spass!
