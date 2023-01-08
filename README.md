@@ -17,7 +17,7 @@ To attempt and submit the task you will need
 
 # Grading
 
-Grading is on attempt. We trust that you are doing the necessary work and award you full marks for your submission. To verify, one or more teams will be selected at random each week for a viva on their submission. If any of the members is unable to explain the submission or all members do not appear for the viva, the team will be considered unreliable. Unreliable teams will be awarded a 0 in the corresponding WC as well as all WC's since their last viva.
+Grading is on attempt. We trust that you are doing the necessary work and award you full marks for your submission. To verify, one or more teams will be selected at random each week for a viva on their submission. If any of the members is unable to explain the submission or does not appear for the viva, the team will be considered unreliable. Unreliable teams will be awarded a 0 in the corresponding WC as well as all WC's since their last viva.
 
 # Task
 
